@@ -15,7 +15,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-
+awd=100
 
 option_a = os.getenv('OPTION_A', "空气滤芯")
 option_b = os.getenv('OPTION_B', "汽车电瓶")
